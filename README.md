@@ -28,12 +28,10 @@ Define main function:
     Declare an array values with values {7, 3, 9, 4, 6, 1, 2, 8, 5}.
     Print "Before:".
     Call printValues with values.
-    
     Declare integers x and y with values 3 and 5, respectively.
     Print x and y.
     Call swap with addresses of x and y.
     Print x and y.
-
     Call sort with values.
     Print "After:".
     Call printValues with values.
